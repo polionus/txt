@@ -1,4 +1,4 @@
 JAX, the scientific computing library
-Autograd
-XLA
-Flax
+Autograd, 10
+XLA, 10 
+Flax, 10
